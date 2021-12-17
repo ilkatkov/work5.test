@@ -1,0 +1,31 @@
+h1, h2 {
+    margin: 0 0;
+}
+
+form {
+    font-family: 'Calibri';
+    margin: 0 auto;
+    max-width: 300px;
+    width:100%;
+    background-color: lightblue;
+    border-radius: 15px;
+    padding: 15px;
+    display:flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+}
+
+input[type="text"]
+{
+    font-family: 'Calibri';
+    width: 100%;
+    margin: 0 0;
+    padding: 0 0;
+}
+
+input[type="submit"]
+{
+    font-family: 'Calibri';
+    width: 100px;
+}
